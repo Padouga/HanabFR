@@ -1,2 +1,2 @@
 # HanabFR
-Le Github du groupe Français de joueur d'Hanabi
+Le Github Français des joueurs de Hanabi
